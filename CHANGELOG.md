@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Add `--login-file/-U <path>` to persist randomly generated login credentials to `<path>`
+  (similar to the "cookie file" feature in bitcoind).
+
 ## 0.1.1 - 2018-08-29
 
 - Android: don't generate release builds
