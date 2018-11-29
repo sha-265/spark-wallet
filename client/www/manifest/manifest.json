@@ -4,6 +4,7 @@
   "start_url": "..",
   "display": "standalone",
   "background_color": "#375a7f",
+  "orientation": "portrait-primary",
   "icons": [
     { "src": "icon-16.png", "sizes": "16x16", "type": "image/png" },
     { "src": "icon-32.png", "sizes": "32x32", "type": "image/png" },
